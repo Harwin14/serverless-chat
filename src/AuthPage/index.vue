@@ -68,5 +68,5 @@
           .catch((error) => console.log("Sign up error", error));
       },
     },
-  };  
+  };   
   </script>   
