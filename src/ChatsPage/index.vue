@@ -33,7 +33,7 @@
       username: {
         type: String,
         required: true,
-      },
+      }, 
       secret: {
         type: String,
         required: true,
